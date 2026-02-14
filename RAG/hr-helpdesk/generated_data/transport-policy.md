@@ -1,0 +1,94 @@
+# Company Data Protection Policy
+
+**1. Purpose**
+
+This Company Data Protection Policy outlines Acme Corp's commitment to the lawful, fair, and transparent processing of personal data belonging to our employees, customers, partners, and other stakeholders. We are dedicated to safeguarding this data in accordance with applicable data protection laws in India, including the Personal Data Protection Bill (when enacted). This policy ensures that personal data is collected, processed, stored, and protected with the utmost care and confidentiality, respecting individual rights.
+
+**2. Scope**
+
+This policy applies to all individuals who provide any amount of personal data to Acme Corp. This includes, but is not limited to, employees, job candidates, customers, suppliers, partners, and any other external entities or individuals with whom Acme Corp collaborates or who act on its behalf. All employees and external entities covered by this policy are required to adhere to its principles.
+
+**3. Definitions**
+
+*   **Personal Data:** Any information that relates to a natural person, which either directly or indirectly, in combination with other information available or likely to be available with Acme Corp, is capable of identifying such person.
+*   **Data Controller:** Acme Corp, as the entity that determines the purposes and means of the processing of personal data.
+*   **Data Processor:** Any entity that processes personal data on behalf of Acme Corp.
+*   **Processing:** Any operation or set of operations performed on personal data, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.
+
+**4. Principles of Data Processing**
+
+Acme Corp adheres to the following core principles when processing personal data:
+
+*   **Lawfulness, Fairness, and Transparency:** Personal data will be processed lawfully, fairly, and in a transparent manner in relation to the data subject.
+*   **Purpose Limitation:** Personal data will be collected for specified, explicit, and legitimate purposes and not further processed in a manner that is incompatible with those purposes.
+*   **Data Minimization:** Personal data collected will be adequate, relevant, and limited to what is necessary in relation to the purposes for which it is processed.
+*   **Accuracy:** Personal data will be accurate and, where necessary, kept up to date. Inaccurate personal data will be erased or rectified without delay.
+*   **Storage Limitation:** Personal data will be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data is processed.
+*   **Integrity and Confidentiality:** Personal data will be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures.
+
+**5. Collection of Personal Data**
+
+*   Acme Corp collects personal data only for specified, explicit, and legitimate business purposes.
+*   Data collected is relevant and limited to what is necessary for the purposes for which it is processed.
+*   Personal data may be collected through various channels, including but not limited to online forms, website interactions, emails, and in-person interactions.
+*   We will inform individuals about the types of data collected and the purposes for which it will be processed at the point of collection.
+
+**6. Processing of Personal Data**
+
+*   Acme Corp processes personal data in a fair, transparent, and lawful manner, strictly for the purposes for which it was collected.
+*   Individuals have the right to access, rectify, erase, or restrict the processing of their personal data. Requests to exercise these rights can be made to the designated Data Protection Officer.
+
+**7. Data Security**
+
+*   Acme Corp implements appropriate technical and organizational measures to ensure the security and confidentiality of personal data.
+*   Access to personal data is restricted to employees and authorized third parties on a strict need-to-know basis.
+*   We regularly review and update our security measures to protect against unauthorized access, disclosure, alteration, or destruction of personal data.
+
+**8. Data Breach Notification**
+
+*   In the event of a data breach, Acme Corp will promptly assess the impact and, if required by law, notify the relevant data protection authorities and affected individuals in accordance with applicable Data Protection Laws.
+*   We will establish and maintain procedures for identifying, assessing, and reporting data breaches.
+
+**9. Data Transfer**
+
+*   Personal data may be transferred to third parties or international entities only when adequate safeguards are in place to ensure the protection of the data and compliance with the Data Protection Laws.
+*   We will ensure that any third-party processors engaged by Acme Corp adhere to data protection standards equivalent to our own.
+
+**10. Data Retention**
+
+*   Personal data is retained only for as long as necessary for the purposes for which it was collected or as required by law.
+*   Acme Corp has established specific retention periods for different types of data and will securely dispose of data once it is no longer needed.
+
+**11. Individual Rights**
+
+Acme Corp respects the rights of data subjects, including:
+
+*   The right to access their personal data.
+*   The right to rectification of inaccurate personal data.
+*   The right to erasure of personal data (under certain conditions).
+*   The right to restrict processing of personal data.
+*   The right to data portability (where applicable).
+*   The right to object to processing of personal data.
+
+**12. Employee Responsibilities**
+
+All employees of Acme Corp are required to:
+
+*   Comply with this Data Protection Policy and attend regular training on data privacy matters.
+*   Handle personal data with care and confidentiality.
+*   Report any suspected data breaches or policy violations immediately to the Data Protection Officer.
+
+**13. Updates to the Policy**
+
+*   This Policy may be updated periodically to reflect changes in Acme Corp's data processing activities or changes in the Data Protection Laws.
+*   Employees will be notified of any updates to this Policy through appropriate communication channels.
+
+**14. Contact Information**
+
+For any inquiries, concerns, or to exercise your data protection rights, please contact the Data Protection Officer at:
+
+*   **Email:** [Insert DPO Email Address]
+*   **Phone:** [Insert DPO Phone Number]
+*   **Address:** [Insert Company Address]
+
+**Disclaimer:** This policy template provides general guidelines and should be adapted to suit the specific needs and circumstances of Acme Corp. It is recommended to seek legal advice to ensure full compliance with all applicable data protection laws and regulations in India.
