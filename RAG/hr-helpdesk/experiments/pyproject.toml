@@ -10,4 +10,5 @@ dependencies = [
     "langchain>=1.2.10",
     "langchain-community>=0.4.1",
     "langchain-google-vertexai>=3.2.2",
+    "tqdm>=4.67.3",
 ]
