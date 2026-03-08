@@ -1,61 +1,36 @@
-# Acme Corp - Employee Handbook
+## Acme Corp - Employee Handbook
 
-## Company Data Protection Policy
+### **Occupational Health And Safety (Ohs) Policy Policy**
 
-**1. Policy Brief & Purpose**
+**1. Policy Brief and Purpose**
 
-Acme Corp is committed to treating the personal data of its employees, customers, stakeholders, and other interested parties with the utmost care and confidentiality. This policy ensures that we gather, store, and handle data fairly, transparently, and with respect for individual rights, in accordance with applicable data protection laws in India, including the Personal Data Protection Bill (when enacted).
+This policy defines occupational health and safety (ohs) policy practices at Acme Corp, an Information Technology organization operating in India. The objective of this policy is to establish clear expectations, ensure legal compliance, and promote a fair, secure, and productive work environment for all employees.
 
 **2. Scope**
 
-This policy applies to all individuals who provide any amount of personal data to Acme Corp. This includes employees, job candidates, customers, suppliers, and any other external parties.
+This policy applies to all employees, contractors, consultants, interns, and third-party personnel associated with Acme Corp, regardless of role, designation, or employment type.
 
-**3. Who is Covered Under the Data Protection Policy?**
+**3. Policy Principles**
 
-All employees of Acme Corp and its subsidiaries must adhere to this policy. Contractors, consultants, partners, and any other external entities collaborating with Acme Corp or acting on its behalf, who may require occasional access to data, are also covered.
+Acme Corp is committed to implementing this policy in a manner that reflects professionalism, transparency, and accountability. All actions taken under this policy will align with applicable Indian labor laws, information technology regulations, and industry best practices.
 
-**4. Policy Elements**
+**4. Roles and Responsibilities**
 
-As part of its operations, Acme Corp collects and processes information. This information includes any offline or online data that makes a person identifiable, such as names, addresses, usernames and passwords, digital footprints, photographs, social security numbers, financial data, etc.
+* Employees are responsible for understanding and complying with this policy.
+* Managers are responsible for enforcing the policy consistently and fairly.
+* Human Resources is responsible for policy interpretation, communication, and compliance monitoring.
 
-Acme Corp collects this information transparently and only with the full cooperation and knowledge of the data subjects. Once this information is available to us, the following rules apply:
+**5. Compliance and Monitoring**
 
-*   **Our data will be:**
-    *   Accurate and kept up-to-date.
-    *   Collected fairly and for lawful purposes only.
-    *   Processed by Acme Corp within its legal and moral boundaries.
-    *   Protected against any unauthorized or illegal access by internal or external parties.
+Compliance with this policy is mandatory. Acme Corp reserves the right to monitor, audit, or review practices related to this policy to ensure adherence and mitigate organizational risk.
 
-*   **Our data will not be:**
-    *   Communicated informally.
-    *   Stored for more than a specified amount of time.
-    *   Transferred to organizations, states, or countries that do not have adequate data protection policies.
-    *   Distributed to any party other than the ones agreed upon by the data's owner (exempting legitimate requests from law enforcement authorities).
+**6. Policy Violations and Disciplinary Action**
 
-In addition to the ways of handling data, Acme Corp has direct obligations towards the individuals to whom the data belongs. Specifically, we must:
+Any violation of this policy may result in disciplinary action, including verbal warnings, written warnings, suspension, or termination of employment, depending on the severity of the violation.
 
-*   Let individuals know which of their data is collected.
-*   Inform individuals about how we will process their data.
-*   Inform individuals about who has access to their information.
-*   Have provisions in cases of lost, corrupted, or compromised data.
-*   Allow individuals to request that we modify, erase, reduce, or correct data contained in our databases.
+**7. Policy Review and Amendments**
 
-**5. Actions**
+This policy will be reviewed periodically and updated as required to reflect changes in business operations, regulatory requirements, or organizational needs.
 
-To exercise data protection, Acme Corp is committed to:
-
-*   Restricting and monitoring access to sensitive data.
-*   Developing transparent data collection procedures.
-*   Training employees in online privacy and security measures.
-*   Building secure networks to protect online data from cyberattacks.
-*   Establishing clear procedures for reporting privacy breaches or data misuse.
-*   Including contract clauses or communicating statements on how we handle data.
-*   Establishing data protection practices (document shredding, secure locks, data encryption, frequent backups, access authorization, etc.).
-
-Acme Corp's data protection provisions will appear on our website.
-
-**6. Disciplinary Consequences**
-
-All principles described in this policy must be strictly followed. A breach of data protection guidelines will invoke disciplinary and possibly legal action.
-
-**Disclaimer:** This policy template is meant to provide general guidelines and should be used as a reference. It may not take into account all relevant local, state or federal laws and is not a legal document. Neither the author nor Springworks will assume any legal liability that may arise from the use of this policy.
+**Disclaimer:**  
+This policy is a general guideline and does not constitute a contractual agreement. Acme Corp reserves the right to amend or withdraw this policy at its discretion.

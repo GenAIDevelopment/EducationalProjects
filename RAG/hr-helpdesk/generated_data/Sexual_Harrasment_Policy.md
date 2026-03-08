@@ -1,56 +1,36 @@
-# **Acme Corp - Employee Handbook**
+## Acme Corp - Employee Handbook
 
-## **Company Data Protection Policy**
+### **Sexual Harrasment Policy Policy**
 
-**1. Policy Brief & Purpose**
+**1. Policy Brief and Purpose**
 
-Acme Corp is committed to treating the personal information of its employees, customers, stakeholders, and other interested parties with the utmost care and confidentiality. This policy ensures that we gather, store, and handle data fairly, transparently, and with respect for individual rights, in accordance with the applicable data protection laws in India, including the Personal Data Protection Bill when enacted ("Data Protection Laws").
+This policy defines sexual harrasment policy practices at Acme Corp, an Information Technology organization operating in India. The objective of this policy is to establish clear expectations, ensure legal compliance, and promote a fair, secure, and productive work environment for all employees.
 
 **2. Scope**
 
-This policy applies to all individuals who provide any amount of information to Acme Corp, including employees, job candidates, customers, and suppliers. It also covers all employees of Acme Corp and its subsidiaries, as well as contractors, consultants, partners, and any other external entity that collaborates with Acme Corp or acts on its behalf and may require occasional access to data.
+This policy applies to all employees, contractors, consultants, interns, and third-party personnel associated with Acme Corp, regardless of role, designation, or employment type.
 
-**3. Policy Elements**
+**3. Policy Principles**
 
-As part of its operations, Acme Corp collects and processes information. This information includes any offline or online data that makes a person identifiable, such as names, addresses, usernames and passwords, digital footprints, photographs, social security numbers, financial data, etc.
+Acme Corp is committed to implementing this policy in a manner that reflects professionalism, transparency, and accountability. All actions taken under this policy will align with applicable Indian labor laws, information technology regulations, and industry best practices.
 
-Acme Corp collects this information transparently and only with the full cooperation and knowledge of interested parties. Once this information is available to us, the following rules apply:
+**4. Roles and Responsibilities**
 
-*   **Data Accuracy:** Our data will be accurate and kept up-to-date.
-*   **Fair Collection:** Data will be collected fairly and only for lawful purposes.
-*   **Lawful Processing:** Data will be processed by the company within its legal and moral boundaries.
-*   **Data Protection:** Data will be protected against any unauthorized or illegal access by internal or external parties.
-*   **Data Restrictions:**
-    *   Data will not be communicated informally.
-    *   Data will not be stored for more than a specified amount of time.
-    *   Data will not be transferred to organizations, states, or countries that do not have adequate data protection policies.
-    *   Data will not be distributed to any party other than those agreed upon by the data's owner (exempting legitimate requests from law enforcement authorities).
+* Employees are responsible for understanding and complying with this policy.
+* Managers are responsible for enforcing the policy consistently and fairly.
+* Human Resources is responsible for policy interpretation, communication, and compliance monitoring.
 
-In addition to data handling practices, Acme Corp has direct obligations towards the individuals to whom the data belongs:
+**5. Compliance and Monitoring**
 
-*   **Transparency:** We will inform individuals which of their data is collected.
-*   **Purpose Limitation:** We will inform individuals about how we will process their data.
-*   **Access Control:** We will inform individuals about who has access to their information.
-*   **Breach Provisions:** We will have provisions in place for cases of lost, corrupted, or compromised data.
-*   **Individual Rights:** We will allow individuals to request that we modify, erase, reduce, or correct data contained in our databases.
+Compliance with this policy is mandatory. Acme Corp reserves the right to monitor, audit, or review practices related to this policy to ensure adherence and mitigate organizational risk.
 
-**4. Actions**
+**6. Policy Violations and Disciplinary Action**
 
-To exercise data protection, Acme Corp is committed to:
+Any violation of this policy may result in disciplinary action, including verbal warnings, written warnings, suspension, or termination of employment, depending on the severity of the violation.
 
-*   Restricting and monitoring access to sensitive data.
-*   Developing transparent data collection procedures.
-*   Training employees in online privacy and security measures.
-*   Building secure networks to protect online data from cyberattacks.
-*   Establishing clear procedures for reporting privacy breaches or data misuse.
-*   Including contract clauses or communicating statements on how we handle data.
-*   Establishing data protection practices (document shredding, secure locks, data encryption, frequent backups, access authorization, etc.).
-*   Our data protection provisions will appear on our website.
+**7. Policy Review and Amendments**
 
-**5. Disciplinary Consequences**
+This policy will be reviewed periodically and updated as required to reflect changes in business operations, regulatory requirements, or organizational needs.
 
-All principles described in this policy must be strictly followed. A breach of data protection guidelines will invoke disciplinary and possibly legal action.
-
----
-
-**Disclaimer:** This policy template is meant to provide general guidelines and should be used as a reference. It may not take into account all relevant local, state or federal laws and is not a legal document. Neither the author nor Springworks will assume any legal liability that may arise from the use of this policy.
+**Disclaimer:**  
+This policy is a general guideline and does not constitute a contractual agreement. Acme Corp reserves the right to amend or withdraw this policy at its discretion.

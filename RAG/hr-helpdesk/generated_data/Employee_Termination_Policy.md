@@ -1,80 +1,36 @@
-# Employee Stock Ownership Plan (ESOP) Policy
+## Acme Corp - Employee Handbook
 
-## 1. Purpose
+### **Employee Termination Policy Policy**
 
-This Employee Stock Ownership Plan (ESOP) Policy outlines the framework and guidelines for the establishment and administration of an ESOP at Acme Corp. The ESOP is designed to provide eligible employees with an opportunity to share in the company's success and foster a sense of ownership and long-term commitment.
+**1. Policy Brief and Purpose**
 
-## 2. Scope
+This policy defines employee termination policy practices at Acme Corp, an Information Technology organization operating in India. The objective of this policy is to establish clear expectations, ensure legal compliance, and promote a fair, secure, and productive work environment for all employees.
 
-This policy applies to all eligible employees of Acme Corp. and its subsidiaries, as defined within this policy.
+**2. Scope**
 
-## 3. ESOP Committee
+This policy applies to all employees, contractors, consultants, interns, and third-party personnel associated with Acme Corp, regardless of role, designation, or employment type.
 
-An ESOP Committee will be established, comprising representatives from senior management, Human Resources, and Finance. The ESOP Committee will be responsible for the oversight, administration, and implementation of the ESOP in accordance with this policy and applicable laws.
+**3. Policy Principles**
 
-## 4. Eligibility
+Acme Corp is committed to implementing this policy in a manner that reflects professionalism, transparency, and accountability. All actions taken under this policy will align with applicable Indian labor laws, information technology regulations, and industry best practices.
 
-Employees will be eligible to participate in the ESOP based on the following criteria:
+**4. Roles and Responsibilities**
 
-*   **Service Requirement:** Employees must complete [Number] years of continuous service with Acme Corp.
-*   **Employment Status:** Employees must be regular full-time employees.
-*   **Age Requirement:** Employees must be at least [Age] years of age.
-*   **Other Criteria:** [Specify any other eligibility criteria, e.g., performance-based, specific roles, etc.]
+* Employees are responsible for understanding and complying with this policy.
+* Managers are responsible for enforcing the policy consistently and fairly.
+* Human Resources is responsible for policy interpretation, communication, and compliance monitoring.
 
-## 5. ESOP Administration
+**5. Compliance and Monitoring**
 
-*   **Trustee:** Acme Corp. will appoint a qualified Trustee responsible for holding and managing the ESOP trust assets in accordance with the ESOP plan documents and applicable laws.
-*   **Plan Administrator:** A Plan Administrator (which may be an internal department or an external third-party administrator) will be appointed to manage the day-to-day operations of the ESOP, including record-keeping, participant communications, and compliance.
-*   **Valuation:** The value of the company stock held within the ESOP will be determined by an independent, qualified appraiser at least annually, or more frequently as required by law or the ESOP Committee.
+Compliance with this policy is mandatory. Acme Corp reserves the right to monitor, audit, or review practices related to this policy to ensure adherence and mitigate organizational risk.
 
-## 6. Allocation of Shares
+**6. Policy Violations and Disciplinary Action**
 
-*   Shares held by the ESOP trust will be allocated to eligible employee accounts based on a predetermined formula outlined in the ESOP plan document. This formula typically considers factors such as employee compensation and years of service.
-*   Allocations will be made annually, or as specified in the ESOP plan document.
+Any violation of this policy may result in disciplinary action, including verbal warnings, written warnings, suspension, or termination of employment, depending on the severity of the violation.
 
-## 7. Vesting
+**7. Policy Review and Amendments**
 
-*   Employee interests in the shares allocated to their ESOP accounts will vest over time. The vesting schedule will be detailed in the ESOP plan document and will comply with applicable legal requirements.
-*   Vesting refers to the employee's right to retain the allocated shares. Typically, employees become fully vested after a certain number of years of service or upon the occurrence of specific events (e.g., retirement, disability, death).
+This policy will be reviewed periodically and updated as required to reflect changes in business operations, regulatory requirements, or organizational needs.
 
-## 8. Distribution of Benefits
-
-*   Benefits from the ESOP will be distributed to participants upon the occurrence of a "distribution event," as defined in the ESOP plan document. Common distribution events include:
-    *   Separation from employment (resignation, termination, retirement)
-    *   Disability
-    *   Death
-*   The method and timing of distributions will be in accordance with the ESOP plan document and applicable laws, which may include lump-sum payments, installment payments, or direct rollover to an individual retirement account.
-
-## 9. Diversification Rights
-
-*   Participants who have reached a certain age and completed a specified number of years of participation in the ESOP may be offered diversification rights, allowing them to elect to have a portion of their ESOP account invested in assets other than company stock, as per legal requirements.
-
-## 10. Confidentiality
-
-*   All information related to an employee's participation in the ESOP, including account balances and distribution details, will be treated with strict confidentiality.
-
-## 11. Compliance
-
-*   The ESOP will be established and administered in compliance with all applicable Indian laws and regulations, including but not limited to the Companies Act, 2013, and any relevant tax laws and guidelines issued by regulatory authorities.
-*   Acme Corp. will ensure that the ESOP plan document and its administration are reviewed periodically to maintain compliance.
-
-## 12. Communication and Education
-
-*   Acme Corp. will provide regular communications and educational materials to employees regarding the ESOP, including its purpose, benefits, eligibility, and administration.
-*   The ESOP Committee and Plan Administrator will be available to answer employee questions regarding the ESOP.
-
-## 13. Amendments and Termination
-
-*   Acme Corp. reserves the right to amend or terminate the ESOP policy and the ESOP plan at any time, in accordance with applicable laws and the terms of the ESOP plan document. Any such changes will be communicated to employees.
-
-## 14. Disclaimer
-
-This ESOP Policy provides a general framework. The specific terms, conditions, and details of the ESOP will be governed by the formal ESOP Plan Document, which will be provided to eligible employees. This policy does not create a contractual right to participate in the ESOP or guarantee any specific level of benefit.
-
----
-
-**Approval and Review:**
-
-This policy has been approved by the Board of Directors of Acme Corp. on [Date].
-
-**Policy Review Date:** [Date]
+**Disclaimer:**  
+This policy is a general guideline and does not constitute a contractual agreement. Acme Corp reserves the right to amend or withdraw this policy at its discretion.

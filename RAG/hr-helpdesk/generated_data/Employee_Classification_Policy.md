@@ -1,80 +1,36 @@
 ## Acme Corp - Employee Handbook
 
----
+### **Employee Classification Policy Policy**
 
-### **Company Email Usage Policy**
+**1. Policy Brief and Purpose**
 
-**Policy Brief and Purpose**
+This policy defines employee classification policy practices at Acme Corp, an Information Technology organization operating in India. The objective of this policy is to establish clear expectations, ensure legal compliance, and promote a fair, secure, and productive work environment for all employees.
 
-The Acme Corp email policy is designed to guide employees on the appropriate use of their corporate email addresses. Recognizing the email address as a vital tool for daily operations, this policy aims to ensure its effective and secure utilization, safeguarding company data, reputation, and technological assets.
+**2. Scope**
 
-**Scope**
+This policy applies to all employees, contractors, consultants, interns, and third-party personnel associated with Acme Corp, regardless of role, designation, or employment type.
 
-This email usage policy applies to all employees, contractors, and any third parties granted access to Acme Corp's email system. This includes individually assigned email addresses and departmental accounts.
+**3. Policy Principles**
 
-**Policy Components**
+Acme Corp is committed to implementing this policy in a manner that reflects professionalism, transparency, and accountability. All actions taken under this policy will align with applicable Indian labor laws, information technology regulations, and industry best practices.
 
-Acme Corp provides corporate email as a critical communication tool for business-related activities. While employees are granted reasonable freedom for personal use, this policy defines the boundaries of acceptable and unacceptable usage.
+**4. Roles and Responsibilities**
 
-**Correct Use of Corporate Email**
+* Employees are responsible for understanding and complying with this policy.
+* Managers are responsible for enforcing the policy consistently and fairly.
+* Human Resources is responsible for policy interpretation, communication, and compliance monitoring.
 
-Employees are permitted to use their company email for all work-related purposes. This includes, but is not limited to:
+**5. Compliance and Monitoring**
 
-*   Communicating with current and prospective clients, partners, and vendors.
-*   Accessing necessary software and online services for job functions.
-*   Sharing contact information at professional events for business purposes.
-*   Subscribing to industry-relevant newsletters and online resources that support professional growth.
+Compliance with this policy is mandatory. Acme Corp reserves the right to monitor, audit, or review practices related to this policy to ensure adherence and mitigate organizational risk.
 
-**Inappropriate Use of Corporate Email**
+**6. Policy Violations and Disciplinary Action**
 
-As corporate email users represent Acme Corp, the following actions are strictly prohibited:
+Any violation of this policy may result in disciplinary action, including verbal warnings, written warnings, suspension, or termination of employment, depending on the severity of the violation.
 
-*   Sending insulting, discriminatory, or offensive content.
-*   Registering for competitive services without explicit authorization.
-*   Intentionally sending unsolicited bulk emails (spam), especially to colleagues.
-*   Signing up for unreliable, illegal, suspect, or disreputable websites or services.
-*   Sending emails containing unlawful marketing information or solicitations.
+**7. Policy Review and Amendments**
 
-Acme Corp reserves the right to monitor corporate email usage.
+This policy will be reviewed periodically and updated as required to reflect changes in business operations, regulatory requirements, or organizational needs.
 
-**Personal Use**
-
-Limited personal use of company email is permitted, provided it does not interfere with job duties or violate any company policies. Examples include:
-
-*   Registering for professional development classes or meetups.
-*   Sending non-confidential emails to friends and family, ensuring no spamming occurs.
-*   Downloading safe and appropriate content for personal use.
-
-**Email Security**
-
-Email is a common vector for malware, data breaches, and phishing attacks. Employees must adhere to the following security measures:
-
-*   **Password Strength:** Set strong passwords with a minimum of eight characters, including a combination of lowercase letters, uppercase letters, numbers, and symbols. Avoid using personal information such as birthdays.
-*   **Password Management:** Change email passwords every four to five months. Do not write down passwords in easily accessible locations.
-*   **Phishing and Malware Awareness:**
-    *   Do not open attachments or click on links from unknown or suspicious senders, or when the content is inadequately explained.
-    *   Be cautious of clickbait titles.
-    *   Verify sender identities and email addresses to ensure legitimacy.
-    *   Look for stylistic red flags such as grammar mistakes, excessive punctuation, or inconsistent capitalization.
-
-Employees facing difficulty in identifying a safe email should contact the Acme Corp Security team. Employees are instructed to keep their anti-malware programs updated.
-
-**Email Signature**
-
-Employees are encouraged to use a professional email signature that represents Acme Corp effectively. A standard signature format should include:
-
-[Employee Name]
-[Employee Title], [Company Name with Link]
-[Phone Number] [Company Address]
-
-Company logos, work-related images, and links may be included, subject to IT guidelines. Employees can seek assistance from their direct supervisor or the IT department for signature setup.
-
-**Disciplinary Consequences**
-
-Employees who fail to comply with this email usage policy will be subject to disciplinary action, up to and including termination of employment. Examples of violations leading to disciplinary action include:
-
-*   Unauthorized transmission of confidential company information.
-*   Sending inappropriate or offensive emails to colleagues, clients, or partners.
-*   Using corporate email for any unlawful activity.
-
----
+**Disclaimer:**  
+This policy is a general guideline and does not constitute a contractual agreement. Acme Corp reserves the right to amend or withdraw this policy at its discretion.
